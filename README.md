@@ -1,6 +1,6 @@
 # Oakland Data Explorer
 
-A Next.js application for exploring Oakland's environmental data through interactive maps, charts, and visualizations.
+ A Next.js application for exploring Oakland's environmental data through interactive maps, charts, and visualizations.
 
 ## Project Structure
 
